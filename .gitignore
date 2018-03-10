@@ -1,0 +1,5 @@
+.idea
+*.swp
+*.class
+*.jar
+hs_err_pid*
